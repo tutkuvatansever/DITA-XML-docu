@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="change_group_settings">
+    <title>Change Group Settings</title>
+    <taskbody>
+        <steps-unordered>
+            <step>
+                <cmd>Open the group chat to change the settings.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="change_group_subject">
+    <title>Change group subject</title>
+    <taskbody>
+        <steps-unordered>
+            <step>
+                <cmd>Tap <uicontrol>Edit</uicontrol>, enter a new subject, and then tap <uicontrol>Done</uicontrol>.
+                </cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

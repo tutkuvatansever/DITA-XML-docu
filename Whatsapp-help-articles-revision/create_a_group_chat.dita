@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_a_group_chat">
+    <title>Create a group chat</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Tap <menucascade>
+                    <uicontrol>New Chat</uicontrol>
+                    <uicontrol>New Group</uicontrol>
+                </menucascade></cmd>
+            </step>
+            <step>
+                <cmd>Select contacts to invite to the group, and then tap <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter a group name.</cmd>
+            </step>
+            <step>
+                <cmd>Optional: To add a group icon, tap <uicontrol>Camera</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Optional: If you prefer messages to disappear from the chat history after a
+                    while, click <uicontrol>Disappearing Messages</uicontrol> to select a duration.
+                    You can modify this later.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Create</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

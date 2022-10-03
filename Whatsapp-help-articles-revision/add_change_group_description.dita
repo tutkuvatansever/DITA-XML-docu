@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="add_change_group_description">
+    <title>Add/change group description</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>If you see a description, tap to change it. Otherwise, tap <uicontrol>Add Description</uicontrol>.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Enter a new description, and then tap <uicontrol>Save</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

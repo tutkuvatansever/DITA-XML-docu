@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="delete_a_group_chat">
+    <title>Delete a group chat</title>
+    <taskbody>
+        <context>
+            <p>If you are the group admin, you can deactivate a group chat by removing all participants. This way, no one can send new messages to the group.
+            </p>
+    
+        </context>
+        <steps>
+            <stepsection>To remove all participants and delete a group, follow these steps:</stepsection>
+            <step>
+                <cmd>Open the group chat and tap the group subject.
+                </cmd>
+            </step>
+            <step>
+                <cmd>For each participant, tap their name, and then select
+                    <menucascade>
+                        <uicontrol>Remove from Group</uicontrol>
+                        <uicontrol>Remove</uicontrol>
+                    </menucascade>
+                .</cmd>
+            </step>
+            <step>
+                <cmd>To remove yourself from the group, tap <uicontrol>Exit Group</uicontrol>.</cmd>
+            </step>
+            <step>
+                <note type="important">After you delete the chat history from your phone, other group members can continue viewing the chat history.</note>
+                <cmd>If you want to delete the chat history from your phone, tap <uicontrol>Delete
+                        Group</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Whatsapp Help Articles Revision</title>
+    <topicref href="create_a_group_chat.dita"/>
+    <topicref href="delete_a_group_chat.dita"/>
+    <topicref href="change_group_settings.dita">
+        <topicref href="change_group_subject.dita"/>
+        <topicref href="add_change_group_description.dita"/>
+        <topicref href="change_group_icon.dita"/>
+    </topicref>
+</map>
